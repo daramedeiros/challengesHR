@@ -1,6 +1,6 @@
-# Desafios resolvidos Hacker Rank
+# Desafios resolvidos | Hacker Rank
 
 ## Inciados:
 
-10 Days Of JavaSript
-Algorithms - Problem Solving
+- 10 Days Of JavaSript;
+- Algorithms - Problem Solving;
